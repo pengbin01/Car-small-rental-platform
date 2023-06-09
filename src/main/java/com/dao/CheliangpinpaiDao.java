@@ -16,7 +16,7 @@ import com.entity.view.CheliangpinpaiView;
  * 
  * @author 
  * @email 
- * @date 2021-03-13 10:03:34
+
  */
 public interface CheliangpinpaiDao extends BaseMapper<CheliangpinpaiEntity> {
 	

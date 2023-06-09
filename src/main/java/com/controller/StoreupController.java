@@ -40,8 +40,7 @@ import com.utils.CommonUtil;
  * 收藏表
  * 后端接口
  * @author 
- * @email 
- * @date 2021-03-13 10:03:34
+ * @email
  */
 @RestController
 @RequestMapping("/storeup")

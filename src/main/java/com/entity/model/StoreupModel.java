@@ -17,7 +17,7 @@ import java.io.Serializable;
  * 取自ModelAndView 的model名称
  * @author 
  * @email 
- * @date 2021-03-13 10:03:34
+
  */
 public class StoreupModel  implements Serializable {
 	private static final long serialVersionUID = 1L;

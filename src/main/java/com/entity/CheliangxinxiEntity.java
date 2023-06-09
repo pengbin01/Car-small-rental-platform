@@ -26,7 +26,7 @@ import com.baomidou.mybatisplus.enums.IdType;
  * 数据库通用操作实体类（普通增删改查）
  * @author 
  * @email 
- * @date 2021-03-13 10:03:34
+
  */
 @TableName("cheliangxinxi")
 public class CheliangxinxiEntity<T> implements Serializable {
